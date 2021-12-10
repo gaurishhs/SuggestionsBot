@@ -10,7 +10,8 @@
 - [Zappers](https://zappers.in.net)
 
 # Hosting Guide
-
+- Create a Firebase Project https://firebase.google.com
+- Enable Firestore in the Project and Enter All Credentials in ./config.js
 - First We Would Deploy The Slash Commands, Run The Command :-
 
 ```

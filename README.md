@@ -3,7 +3,7 @@
 - Most Advanced SuggestionsBot, To Handle Your Server's Suggestions.
 
 # Public Version
-
+ 
 - The Public Version Has Been Down For More Than a Month, Because i dont want to use my only hosting(aws) for this bot, If u want to support me, Check my websites of below.
 
 - [SayHeyToMe](https://sayheyto.me)
